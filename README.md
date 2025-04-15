@@ -3,9 +3,7 @@ An online clothing store web application where users can browse, search, and pur
 
 🚀 Features
 🧥 Browse latest clothing collections
-
 🔍 Search and filter by category, price, and gender
-
 🛒 Add to cart and manage cart items
 
 👤 User authentication (Sign up / Login / Logout)
