@@ -1,0 +1,103 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(images/background.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background-color: #051650;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    color: #fff;
+}
+
+form {
+    max-width: 400px;
+    margin: auto;
+    background: #051650;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #fff;
+    color: #333;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #fff;
+    color: #333;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #4CAF50;
+}
+
+.full-width {
+    width: 100%;
+}
+
+#paymentForm {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#paymentForm label {
+    display: block;
+    margin-bottom: 8px;
+    text-align: left;
+}
+
+#paymentForm input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+#card {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+#card label {
+    margin: 0 15px;
+    display: inline-flex;
+    align-items: center;
+}
+
+#card input {
+    margin-right: 5px;
+}
