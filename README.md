@@ -2,6 +2,7 @@
 An online clothing store web application where users can browse, search, and purchase apparel. Built for a seamless shopping experience with a modern interface and essential e-commerce features.
 
 🚀 Features
+
 🧥 Browse latest clothing collections
 🔍 Search and filter by category, price, and gender
 🛒 Add to cart and manage cart items
