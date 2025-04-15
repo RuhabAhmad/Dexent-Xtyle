@@ -11,4 +11,4 @@ An online clothing store web application where users can browse, search, and pur
 6.   Order history and user profile
 7.   Responsive design for all devices
 
-Frontend: HTML, CSS, JavaScript 
+Frontend: HTML & CSS
